@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[thy:home|Door43 (thy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-thy|d43-thy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-thy/archive/master.zip|d43-thy.zip]]
+
+**Recent Changes**
+{{changes>ns = thy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/thy|Ethnologue data]]
+
